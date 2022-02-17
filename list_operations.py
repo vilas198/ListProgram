@@ -13,4 +13,4 @@ list3 = list1.copy()
 print("Reverse list is ->" ,list3)
 
 indexvalue = list2[2:5]
-print("The index values are --> ",indexvalue)
+print("The index values are -- ",indexvalue)
